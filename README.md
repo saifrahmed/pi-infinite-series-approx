@@ -1,5 +1,12 @@
-Output should be like this:
 
+# Infinite Series to Calculate Pi
+
+## Dedicated to Bruce Herman, my 7th Grade Math Teacher @ Mark Twain Intermediate School Brooklyn, NY
+
+Using the Gregory and Leibniz Series
+
+Output should be like this:
+```
 On step 2,057,800,001 we're adding 1/2057800001 and subtracting 1/2057800003 for approximation 3.141592652616156 and difference 0.000000000973637
 On step 2,057,900,001 we're adding 1/2057900001 and subtracting 1/2057900003 for approximation 3.141592652616202 and difference 0.000000000973591
 On step 2,058,000,001 we're adding 1/2058000001 and subtracting 1/2058000003 for approximation 3.141592652616249 and difference 0.000000000973544
@@ -15,3 +22,4 @@ On step 2,058,900,001 we're adding 1/2058900001 and subtracting 1/2058900003 for
 On step 2,059,000,001 we're adding 1/2059000001 and subtracting 1/2059000003 for approximation 3.141592652616708 and difference 0.000000000973085
 On step 2,059,100,001 we're adding 1/2059100001 and subtracting 1/2059100003 for approximation 3.141592652616754 and difference 0.000000000973039
 On step 2,059,200,001 we're adding 1/2059200001 and subtracting 1/2059200003 for approximation 3.141592652616801 and difference 0.000000000972992
+```

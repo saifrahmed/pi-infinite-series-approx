@@ -23,3 +23,5 @@ On step 2,059,000,001 we're adding 1/2059000001 and subtracting 1/2059000003 for
 On step 2,059,100,001 we're adding 1/2059100001 and subtracting 1/2059100003 for approximation 3.141592652616754 and difference 0.000000000973039
 On step 2,059,200,001 we're adding 1/2059200001 and subtracting 1/2059200003 for approximation 3.141592652616801 and difference 0.000000000972992
 ```
+
+Also, see: https://mathworld.wolfram.com/PiFormulas.html
